@@ -1,5 +1,19 @@
 # cpu-level-11-setup-script
 
+# Deprecated
+
+[本家プログラムに Locations.txt の配置、dolphin ディレクトリの検知作成が追加されました。](https://github.com/altf4/cpu-level-11/commit/afc025555e28aa0c66be0c7c9f2a5aa39a63c92e)
+これによってこのリポジトリの大部分は不要になりました。
+
+(Dolphin のコントローラーの設定は必要ですが、サンプルファイル (GCPadNew.ini) があるので、それを手動で上書きするとセットアップは完了です)
+
+本家 README に従ってセットアップしてください。
+
+---
+
+*以下、跡地*
+
+
 [cpu-level-11](https://github.com/altf4/cpu-level-11) の開発環境セットアップスクリプト
 
 クリーンな Ubuntu に対して以下を実行する
